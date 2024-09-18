@@ -15,3 +15,4 @@ if node not in visited
 def bfs(visited,graph,neighbour)
 
 bfs(visited,graph,'A')
+bfs(visited,graph,'A')
