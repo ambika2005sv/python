@@ -6,6 +6,7 @@ graph={
   'E'=('F')
   'F'=[]
   'G'=[]
+  'H'=['i']
 }   
 visited=[]
 if node not in visited
